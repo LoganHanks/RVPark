@@ -1,2 +1,12 @@
-# RVPark
-Your team will collaboratively create and improve a simple "Team Introduction" markdown file in a GitHub repository.
+# Team Introduction
+
+Welcome to our project repository!
+
+## Team Members
+
+- Member 1
+- Member 2
+- Member 3
+- Member 4
+- Member 5
+- Member 6
