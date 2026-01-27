@@ -7,6 +7,8 @@ Welcome to our project repository!
 - Member 1
 - Member 2
 - Member 3
+	Hello! I'm member 3, and I can't wait to get going on this project. 
+	I like Tennis.
 - Member 4
 - Member 5
 - Member 6
