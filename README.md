@@ -8,6 +8,9 @@ Welcome to our project repository!
   Hey, my name is Ben and I am excited to work through this group project.
 - Member 2
 - Member 3
+	Hello! I'm member 3, and I can't wait to get going on this project. 
+	I like Tennis.
+- Member 4
 - Aedan Leavitt
 	Hi! My name is Aedan Leavitt and I am member 4. My hobbies are reading and playing video games.
 - Member 5
