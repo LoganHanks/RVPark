@@ -7,6 +7,7 @@ Welcome to our project repository!
 - Benjamin Gadd
   Hey, my name is Ben and I am excited to work through this group project.
 - Member 2
+Hey! I'm Max, I love hiking, rock climbing, snowboarding, and rocket league!
 - Member 3
 	Hello! I'm member 3, and I can't wait to get going on this project. 
 	I like Tennis.
