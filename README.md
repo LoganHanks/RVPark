@@ -14,5 +14,7 @@ Welcome to our project repository!
 - Aedan Leavitt
 	Hi! My name is Aedan Leavitt and I am member 4. My hobbies are reading and playing video games.
 - Member 5
+    Hello Im Tyson Jaszkowiak. My favorite video game is Marvel Rivals and my favorite color is blue.
+- Member 6
 - Logan Hanks
 Hi my name is Logan Hanks. I am member 6 of this project. My favorite hobby is videogames. Can't get enough of Arc Raiders right now.
