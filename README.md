@@ -6,7 +6,7 @@ Welcome to our project repository!
 
 - Member 1
 - Member 2
-Hey! I'm Max, I love hiking, rock climbing, snowboarding, and rocket league
+Hey! I'm Max, I love hiking, rock climbing, snowboarding, and rocket league!
 - Member 3
 - Member 4
 - Member 5
